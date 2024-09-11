@@ -19,7 +19,7 @@ SweetScan is a user-friendly network scanning tool that leverages the power of `
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/dkhan25/SweetScan.git
+    git clone https://github.com/CloudyKhan/SweetScan.git
     cd SweetScan
     ```
 
